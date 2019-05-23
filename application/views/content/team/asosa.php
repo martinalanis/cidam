@@ -11,21 +11,28 @@ $img_path = base_url('assets/images').'/';
 		<div class="col s12 m4">
 			<div class="card">
 				<div class="card-image">
-					<img src="<?php echo $img_path; ?>team/arangel.png">
+					<img src="<?php echo $img_path; ?>team/asosa.png">
 				</div>
 				<div class="card-content">
-					<span class="card-title">Card Title</span>
-
-					<p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+					<span class="card-title nombre">M.C. Alejandro Sosa Sales</span>
+                        <p>Responsable del Laboratorio de AgroCibernética.</p>
+                        <p>Tel: (443) 299-0181 y (443) 299-0264
+                        Ext. 529</p>
+                        <p>E-mail: asosa@cidam.org</p>  
 				</div>
 			</div>
 		</div>
 
 		<div class="col s12 m8">
 			<h1>Reseña</h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec ipsum massa. Maecenas consectetur vestibulum felis, eu placerat elit luctus in. Ut turpis mi, bibendum ac venenatis in, sollicitudin ultricies odio. Nam vel erat felis. Fusce sapien risus, blandit ut pulvinar sit amet, porttitor vel nunc. Mauris purus mi, porta sit amet pharetra nec, bibendum tincidunt justo. Maecenas nec tellus et quam hendrerit tempus. Fusce ornare mi sed orci volutpat consectetur. In sed lectus eget nisl scelerisque ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam suscipit laoreet sollicitudin. Nullam id nisi enim. Praesent congue scelerisque nulla eu lacinia.</p>
-			<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus ligula dolor, lobortis at pharetra a, rhoncus quis tortor. Nulla et urna elit. Ut suscipit, velit at mattis tempor, arcu justo malesuada sem, nec aliquet justo lacus non neque. Mauris erat neque, rhoncus nec gravida at, viverra in erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque interdum odio ac odio varius semper eu eget sapien. Phasellus ac lacus vel risus faucibus faucibus eget vitae quam. Ut ultricies, dui eget consequat lobortis, dolor eros tempor diam, quis viverra dolor tortor ac lorem.</p>
-			<p>Vestibulum aliquet luctus lacus, dignissim viverra felis molestie vel. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis convallis enim et elit lobortis ullamcorper. Mauris ornare faucibus arcu, et tempus arcu fringilla et. Proin commodo volutpat velit, vel blandit augue vehicula dictum. Aenean adipiscing velit a diam aliquam dapibus. Donec eget odio quam. Suspendisse eget tortor nec tellus suscipit semper. Etiam aliquet porta rhoncus. Fusce ac justo nec sem hendrerit porta.</p>
+                <p>Investigador Asociado del Laboratorio de AgroTIC. Ingeniero en Sistemas Computacionales con el perfil de redes y sistemas distribuidos, con experiencia en redes de computadoras. Trabajando en instalación de redes y servidores de red, mantenimiento a equipo de cómputo y de red de datos. Profeso de asignatura en diferentes instituciones con la capacidad de formar profesionistas en el área de informática.
+                Maestría en Ciencias en Ciencias de Computación por el Instituto Tecnológico de León, con especialidad en Ambientes Inteligentes del área de Inteligencia Artificial, con experiencia el algoritmos basados en la naturaleza (Redes Neuronales, Algoritmos Genéticos, Evolución diferencia, Optimización por Cumulo de Partículas, entre otros) para la resolución de problemas de optimización.
+                Se cuenta con experiencia en la docencia y la generación de proyectos de estudios para alumnos de las mismas instituciones, en docencia se ha trabajado en tecnológicos que pertenecen al sistema de Tecnológicos Nacional de México, siendo profesor de asignatura en los diferentes grados y generando proyectos de investigación y participando en concursos dentro y fuera de las instituciones obteniendo buenos lugares a nivel regional y participando a nivel nacional.</p>
+                <h3>Formacióm Académica</h3>
+                
+                <p><u>Maestria en Ciencias en Ciencias de la Computación.</u> Instituto Tecnológico de León, gto.</p>
+
+                <p><u>Ingenieria en Sistemas Computacionesl.</u> Instituto Tecnológico de Lazaro Cárdenas, Michoacán.</p>
 		</div>
 	</div>
 </div>

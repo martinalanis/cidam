@@ -11,21 +11,33 @@ $img_path = base_url('assets/images').'/';
 		<div class="col s12 m4">
 			<div class="card">
 				<div class="card-image">
-					<img src="<?php echo $img_path; ?>team/arangel.png">
+					<img src="<?php echo $img_path; ?>team/mrubio.png">
 				</div>
 				<div class="card-content">
-					<span class="card-title">Card Title</span>
-
-					<p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+					<span class="card-title nombre">M.C. Marysol Rubio Landa</span>
+                        <p>Investigar Asociado del Laboratorio de Biotecnología.</p>
+                        <p>Tel: (443) 299-0181 y (443) 299-0264
+                        Ext. 549</p>
+                        <p>E-mail: mrubio@cidam.org</p>   
 				</div>
 			</div>
 		</div>
 
 		<div class="col s12 m8">
 			<h1>Reseña</h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec ipsum massa. Maecenas consectetur vestibulum felis, eu placerat elit luctus in. Ut turpis mi, bibendum ac venenatis in, sollicitudin ultricies odio. Nam vel erat felis. Fusce sapien risus, blandit ut pulvinar sit amet, porttitor vel nunc. Mauris purus mi, porta sit amet pharetra nec, bibendum tincidunt justo. Maecenas nec tellus et quam hendrerit tempus. Fusce ornare mi sed orci volutpat consectetur. In sed lectus eget nisl scelerisque ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam suscipit laoreet sollicitudin. Nullam id nisi enim. Praesent congue scelerisque nulla eu lacinia.</p>
-			<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus ligula dolor, lobortis at pharetra a, rhoncus quis tortor. Nulla et urna elit. Ut suscipit, velit at mattis tempor, arcu justo malesuada sem, nec aliquet justo lacus non neque. Mauris erat neque, rhoncus nec gravida at, viverra in erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque interdum odio ac odio varius semper eu eget sapien. Phasellus ac lacus vel risus faucibus faucibus eget vitae quam. Ut ultricies, dui eget consequat lobortis, dolor eros tempor diam, quis viverra dolor tortor ac lorem.</p>
-			<p>Vestibulum aliquet luctus lacus, dignissim viverra felis molestie vel. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis convallis enim et elit lobortis ullamcorper. Mauris ornare faucibus arcu, et tempus arcu fringilla et. Proin commodo volutpat velit, vel blandit augue vehicula dictum. Aenean adipiscing velit a diam aliquam dapibus. Donec eget odio quam. Suspendisse eget tortor nec tellus suscipit semper. Etiam aliquet porta rhoncus. Fusce ac justo nec sem hendrerit porta.</p>
+                <p>
+					 Investigador asociado responsable del Laboratorio 1 “Planta Piloto” de la Unidad de Biotecnología donde es responsable de la 
+					 puesta en marcha y operación de los equipos para la trasformación de alimentos. Ingeniera Bioquímica con especialidad en 
+					 Tecnología de Alimentos egresada del Instituto Tecnológico de Morelia y con Maestría en Ciencias en Biología Experimental 
+					 dentro del Instituto de Investigaciones Químico Biológicas (IIQB) de la UMSNH. Ha participado en la formulación y elaboración 
+					 de un aderezo de aguacate con vida de anaquel de 6 meses, así como, en sus pruebas bromatológicas (cenizas, carbohidratos, 
+					 proteínas, lípidos y fibra), fisicoquímicas (contenido de sólidos totales, humedad, pH y densidad), microbiológicas y sensoriales, 
+					 colaborando en el escalamiento del proceso a nivel de planta piloto.<br>
+					 Ha sido coordinadora de proveedores académicos y logística, así como el seguimiento periódico en PIC´s (Proyecto Integral de Capacitación) 
+					 para SAGARPA e INCA Rural con temas como “Buen manejo del cultivo de fresa para una mejor calidad” y “Uso de biofertilizantes en 
+					 cultivo de fresa”.<br>
+					 Actualmente colabora en el diseño de equipos y apoyo en operaciones unitarias de transformación de alimentos como secado, evaporación, 
+					 despulpado y fermentación a nivel planta piloto para dar valor agregado a los productos del campo.<br>
 		</div>
 	</div>
 </div>

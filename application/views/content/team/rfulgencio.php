@@ -11,21 +11,22 @@ $img_path = base_url('assets/images').'/';
 		<div class="col s12 m4">
 			<div class="card">
 				<div class="card-image">
-					<img src="<?php echo $img_path; ?>team/arangel.png">
+					<img src="<?php echo $img_path; ?>team/rfulgencio.png">
 				</div>
 				<div class="card-content">
-					<span class="card-title">Card Title</span>
-
-					<p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+					<span class="card-title nombre">M.C. Rodolfo Fulgencio Negrete</span>
+                        <p>Investigar Asociado del Laboratorio de Biotecnología.</p>
+                        <p>Tel: (443) 299-0181 y (443) 299-0264
+                        Ext. 516</p>
+                        <p>E-mail: rfulgencio@cidam.org</p>    
 				</div>
 			</div>
 		</div>
 
 		<div class="col s12 m8">
 			<h1>Reseña</h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec ipsum massa. Maecenas consectetur vestibulum felis, eu placerat elit luctus in. Ut turpis mi, bibendum ac venenatis in, sollicitudin ultricies odio. Nam vel erat felis. Fusce sapien risus, blandit ut pulvinar sit amet, porttitor vel nunc. Mauris purus mi, porta sit amet pharetra nec, bibendum tincidunt justo. Maecenas nec tellus et quam hendrerit tempus. Fusce ornare mi sed orci volutpat consectetur. In sed lectus eget nisl scelerisque ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam suscipit laoreet sollicitudin. Nullam id nisi enim. Praesent congue scelerisque nulla eu lacinia.</p>
-			<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus ligula dolor, lobortis at pharetra a, rhoncus quis tortor. Nulla et urna elit. Ut suscipit, velit at mattis tempor, arcu justo malesuada sem, nec aliquet justo lacus non neque. Mauris erat neque, rhoncus nec gravida at, viverra in erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque interdum odio ac odio varius semper eu eget sapien. Phasellus ac lacus vel risus faucibus faucibus eget vitae quam. Ut ultricies, dui eget consequat lobortis, dolor eros tempor diam, quis viverra dolor tortor ac lorem.</p>
-			<p>Vestibulum aliquet luctus lacus, dignissim viverra felis molestie vel. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis convallis enim et elit lobortis ullamcorper. Mauris ornare faucibus arcu, et tempus arcu fringilla et. Proin commodo volutpat velit, vel blandit augue vehicula dictum. Aenean adipiscing velit a diam aliquam dapibus. Donec eget odio quam. Suspendisse eget tortor nec tellus suscipit semper. Etiam aliquet porta rhoncus. Fusce ac justo nec sem hendrerit porta.</p>
+	                <p>Investigador asociado en el Laboratorio de Interacción Planta Suelo Microorganismo, perteneciente a la Unidad de Biotecnología, donde es responsable del análisis de microorganismos benéficos de la rizósfera que proporcionan nutrimentos asimilables en cultivos agrícolas, así como del análisis de microorganismos para el control biológico de patógenos e insectos en diversos agroecosistemas para reducir el uso de plaguicidas. Cuenta con conocimientos sobre metodologías para el aislamiento e identificación de cepas mediante caracterización fenotípica y bioquímica de microorganismos, así como técnicas para el análisis de viabilidad en inoculantes. Ha participado en proyectos para aplicar el conocimiento activo útil para una producción agrícola sustentable aprovechando residuos o sub productos agroindustriales que pueden tener un alto impacto en la productividad agrícola y la fertilidad del suelo o sustrato.
+                Biólogo por la UMSNH, con Maestría en Ciencias Biológicas, en el área temática de Biotecnología Alimentaria por la UMSNH. Cuenta con amplia experiencia en métodos de análisis bromatológicos como contenido calórico y fibra dietética por el método gravimétrico-enzimático en alimentos según lo especificado en la Norma Mexicana NMX-622-NORMEX-2008. Es responsable del servicio para la determinación de proteína por el método Kjeldahl, según lo especificado en la Norma Mexicana NMX–F–608–NORMEX–2011, así como de la determinación de cenizas según lo especificado en la Norma Mexicana NMX-F-607-NORMEX-2013 y la expresión de resultados con base en las especificaciones generales de etiquetado para alimentos de la Norma Oficial Mexicana NOM-051-SCFI7SSA1-2010. Ha colaborado en la aplicación de tecnologías innovadoras para atender y responder a las necesidades del sector agroindustrial.</p>
 		</div>
 	</div>
 </div>

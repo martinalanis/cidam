@@ -11,21 +11,32 @@ $img_path = base_url('assets/images').'/';
 		<div class="col s12 m4">
 			<div class="card">
 				<div class="card-image">
-					<img src="<?php echo $img_path; ?>team/aluna.png">
+					<img src="<?php echo $img_path; ?>team/jvirgen.png">
 				</div>
 				<div class="card-content">
-					<span class="card-title">Card Title</span>
-
-					<p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+					<span class="card-title nombre">Dr. José Juan Virgen Ortiz</span>
+                        <p>Responsable del Laboratorio de Poscosecha.</p>
+                        <p>Tel: (443) 299-0181 y (443) 299-0264
+                        Ext. 544</p>
+                        <p>E-mail: jvirgen@cidam.org</p>   
 				</div>
 			</div>
 		</div>
 
 		<div class="col s12 m8">
 			<h1>Reseña</h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec ipsum massa. Maecenas consectetur vestibulum felis, eu placerat elit luctus in. Ut turpis mi, bibendum ac venenatis in, sollicitudin ultricies odio. Nam vel erat felis. Fusce sapien risus, blandit ut pulvinar sit amet, porttitor vel nunc. Mauris purus mi, porta sit amet pharetra nec, bibendum tincidunt justo. Maecenas nec tellus et quam hendrerit tempus. Fusce ornare mi sed orci volutpat consectetur. In sed lectus eget nisl scelerisque ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam suscipit laoreet sollicitudin. Nullam id nisi enim. Praesent congue scelerisque nulla eu lacinia.</p>
-			<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus ligula dolor, lobortis at pharetra a, rhoncus quis tortor. Nulla et urna elit. Ut suscipit, velit at mattis tempor, arcu justo malesuada sem, nec aliquet justo lacus non neque. Mauris erat neque, rhoncus nec gravida at, viverra in erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque interdum odio ac odio varius semper eu eget sapien. Phasellus ac lacus vel risus faucibus faucibus eget vitae quam. Ut ultricies, dui eget consequat lobortis, dolor eros tempor diam, quis viverra dolor tortor ac lorem.</p>
-			<p>Vestibulum aliquet luctus lacus, dignissim viverra felis molestie vel. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis convallis enim et elit lobortis ullamcorper. Mauris ornare faucibus arcu, et tempus arcu fringilla et. Proin commodo volutpat velit, vel blandit augue vehicula dictum. Aenean adipiscing velit a diam aliquam dapibus. Donec eget odio quam. Suspendisse eget tortor nec tellus suscipit semper. Etiam aliquet porta rhoncus. Fusce ac justo nec sem hendrerit porta.</p>
+                <p >Es Ingeniero Químico en Alimentos y Doctor en Ciencias Químicas por la Universidad de 
+				Colima. Ha realizado estudios sobre la producción, monitoreo y análisis molecular de enzimas 
+				productoras de fructooligosacáridos (FOS). Trabajó en el desarrollo de una estrategia para la producción de 
+				jugos de frutas biofuncionalizados por conversión enzimática de su sacarosa en FOS. También ha colaborado 
+				en el diseño y aplicación de métodos novedosos para concentrar soluciones de proteínas con actividad 
+				catalítica, como es la crioconcentración. Realizó una estancia posdoctoral en el laboratorio de 
+				biocatálisis del ICP-CSIC (Madrid, España) con el Dr. Roberto Fernández Lafuente, donde estudió técnicas de 
+				inmovilización y estabilización de enzimas de importancia biotecnológica y para la industria alimentaria. 
+				Actualmente, en el CIDAM, su interés de investigación e innovación se enfoca en la estimulación abiótica de 
+				compuestos bioactivos en frutos y desarrollo de tecnologías poscosecha de hortofrutícolas; así como en el 
+				estudio de bioprocesos microbianos/enzimáticos orientados hacia la síntesis de productos con perspectiva 
+				de aprovechamiento comercial en la industria alimenticia.</p>
 		</div>
 	</div>
 </div>

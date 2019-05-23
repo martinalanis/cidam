@@ -14,18 +14,41 @@ $img_path = base_url('assets/images').'/';
 					<img src="<?php echo $img_path; ?>team/aluna.png">
 				</div>
 				<div class="card-content">
-					<span class="card-title">Card Title</span>
-
-					<p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+					<span class="card-title nombre">Dr. Alfonso Luna Cruz</span>
+                        <p>Responsable del Laboratorio de Manejo de Plagas.</p>
+                        <p>Tel: (443) 299-0181 y (443) 299-0264
+                        Ext. 521</p>
+                        <p>E-mail: aluna@cidam.org</p>    
 				</div>
 			</div>
 		</div>
 
 		<div class="col s12 m8">
 			<h1>Reseña</h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec ipsum massa. Maecenas consectetur vestibulum felis, eu placerat elit luctus in. Ut turpis mi, bibendum ac venenatis in, sollicitudin ultricies odio. Nam vel erat felis. Fusce sapien risus, blandit ut pulvinar sit amet, porttitor vel nunc. Mauris purus mi, porta sit amet pharetra nec, bibendum tincidunt justo. Maecenas nec tellus et quam hendrerit tempus. Fusce ornare mi sed orci volutpat consectetur. In sed lectus eget nisl scelerisque ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam suscipit laoreet sollicitudin. Nullam id nisi enim. Praesent congue scelerisque nulla eu lacinia.</p>
-			<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus ligula dolor, lobortis at pharetra a, rhoncus quis tortor. Nulla et urna elit. Ut suscipit, velit at mattis tempor, arcu justo malesuada sem, nec aliquet justo lacus non neque. Mauris erat neque, rhoncus nec gravida at, viverra in erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque interdum odio ac odio varius semper eu eget sapien. Phasellus ac lacus vel risus faucibus faucibus eget vitae quam. Ut ultricies, dui eget consequat lobortis, dolor eros tempor diam, quis viverra dolor tortor ac lorem.</p>
-			<p>Vestibulum aliquet luctus lacus, dignissim viverra felis molestie vel. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis convallis enim et elit lobortis ullamcorper. Mauris ornare faucibus arcu, et tempus arcu fringilla et. Proin commodo volutpat velit, vel blandit augue vehicula dictum. Aenean adipiscing velit a diam aliquam dapibus. Donec eget odio quam. Suspendisse eget tortor nec tellus suscipit semper. Etiam aliquet porta rhoncus. Fusce ac justo nec sem hendrerit porta.</p>
+                <p>
+					 Responsable del Laboratorio de Manejo de Plagas. Ingeniero agrónomo especialista en Fitotecnia por la Universidad Autónoma Chapingo, 
+					 con maestría y doctorado en Entomología y Acarología por el Colegio de Postgraduados y con un diplomado en Agricultura Protegida. 
+					 Mi experiencia académica y profesional la he desarrollado con proyectos en el área de la agronomía y de entomología. 
+					 Conocedor de que la agricultura mundial y mexicana ha utilizado el control químico como principal componente del manejo de plagas y 
+					 enfermedades y que el control biológico tiene la ventaja de ser inocuo al ambiente, además de ayudar a conservar las especies de 
+					 enemigos benéficos presentes en los agroecosistemas y de importancia para mantener reguladas las plagas presentes en los cultivos, 
+					 he incursionado en las siguientes líneas de investigación:
+					 <br>
+					1.	- Control biológico de plagas agrícolas.<br>
+					2.	-Toxicidad y residualidad de insecticidas químico-biorracionales y metabolitos secundarios en insectos plaga e insectos benéficos.<br>
+					3.	Búsqueda y aplicación de microorganismos promotores de crecimiento vegetal en invernadero y campo.<br>
+					 <br>
+					 Actualmente participo en el proyecto “Fortalecimiento del Sector Agroindustrial con el Posgrado del Área Biológica” realizando 
+					 investigación para desarrollar y producir bio-inoculantes para los diversos cultivos agrícolas y su escalamiento de producción 
+					 a nivel industrial y mejoramiento de las capacidades de defensa vegetal contra microorganismos patógenos.
+					 <br>
+					 He colaborado como docente en la Universidad Michoacana de San Nicolás de Hidalgo, impartiendo materias a nivel licenciatura y posgrado. 
+					 He organizado cursos de control biológico de plagas, entre otros, en diferentes instituciones de enseñanza e investigación del país. 
+					 Tengo autorias y coautorias de 10 publicaciones científicas. Soy Miembro de la Sociedad Mexicana de Control Biológico y del 
+					 Sistema Nacional de Investigadores.
+					 <br>
+
+				</p>
 		</div>
 	</div>
 </div>

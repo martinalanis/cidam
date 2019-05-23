@@ -11,21 +11,41 @@ $img_path = base_url('assets/images').'/';
 		<div class="col s12 m4">
 			<div class="card">
 				<div class="card-image">
-					<img src="<?php echo $img_path; ?>team/arangel.png">
+					<img src="<?php echo $img_path; ?>team/cmelendez.png">
 				</div>
 				<div class="card-content">
-					<span class="card-title">Card Title</span>
-
-					<p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+					<span class="card-title nombre">M.C. Claudio Meléndez Gonzáles </span>
+                        <p>Encargado de Vinculación y Proyecto.</p>
+                        <p>Tel: (443) 299-0181 y (443) 299-0264
+                        Ext. 507</p>
+                        <p>E-mail: cmelendez@cidam.org</p>  
 				</div>
 			</div>
 		</div>
 
 		<div class="col s12 m8">
 			<h1>Reseña</h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec ipsum massa. Maecenas consectetur vestibulum felis, eu placerat elit luctus in. Ut turpis mi, bibendum ac venenatis in, sollicitudin ultricies odio. Nam vel erat felis. Fusce sapien risus, blandit ut pulvinar sit amet, porttitor vel nunc. Mauris purus mi, porta sit amet pharetra nec, bibendum tincidunt justo. Maecenas nec tellus et quam hendrerit tempus. Fusce ornare mi sed orci volutpat consectetur. In sed lectus eget nisl scelerisque ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam suscipit laoreet sollicitudin. Nullam id nisi enim. Praesent congue scelerisque nulla eu lacinia.</p>
-			<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus ligula dolor, lobortis at pharetra a, rhoncus quis tortor. Nulla et urna elit. Ut suscipit, velit at mattis tempor, arcu justo malesuada sem, nec aliquet justo lacus non neque. Mauris erat neque, rhoncus nec gravida at, viverra in erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque interdum odio ac odio varius semper eu eget sapien. Phasellus ac lacus vel risus faucibus faucibus eget vitae quam. Ut ultricies, dui eget consequat lobortis, dolor eros tempor diam, quis viverra dolor tortor ac lorem.</p>
-			<p>Vestibulum aliquet luctus lacus, dignissim viverra felis molestie vel. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis convallis enim et elit lobortis ullamcorper. Mauris ornare faucibus arcu, et tempus arcu fringilla et. Proin commodo volutpat velit, vel blandit augue vehicula dictum. Aenean adipiscing velit a diam aliquam dapibus. Donec eget odio quam. Suspendisse eget tortor nec tellus suscipit semper. Etiam aliquet porta rhoncus. Fusce ac justo nec sem hendrerit porta.</p>
+                <p>
+					Es Químico Farmacéutico Biólogo, con maestría en ciencias químicas y doctorado en ciencias biológicas por la 
+					UNAM. Durante los estudios de licenciatura y maestría realizó investigación en Química Orgánica de 
+					productos naturales obtenidos de hongos y plantas, y con potencial de aplicación como pesticidas naturales. 
+					Posee amplia experiencia en el aislamiento y caracterización de productos naturales a través de diversas 
+					técnicas cromatográficas, espectroscópicas, espectrométricas y quiro-ópticas. Así como en el desarrollo de 
+					experimentos y bioensayos con microorganismos, plantas e insectos.
+				</p>
+				<p>
+					En sus estudios doctorales ha realizado investigación sobre la Ecología Química y Metabólomica estudiando 
+					el papel de los productos naturales como mensajeros en las interacciones que se establecen entre cultivos 
+					e insectos plaga, como en la interacción entre el aguacate y una de sus plagas cuarentenarias, el 
+					barrenador de las ramas.
+				</p>
+				<p>
+					En el CIDAM forma parte de la Unidad de Gestión de la Innovación como responsable de vinculación y 
+					proyectos. Entre sus actividades destacan la gestión del portafolio de proyectos, vinculación con 
+					productores agrícolas, asociaciones, empresarios, instituciones de educación y estancias gubernamentales; 
+					participación en foros de difusión y ventas. También forma parte del Organismo certificador del CIDAM 
+					como gerente técnico.
+				</p>
 		</div>
 	</div>
 </div>

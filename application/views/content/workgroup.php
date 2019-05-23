@@ -28,7 +28,7 @@ $img_path = base_url('assets/images').'/';
 					<a href="<?=base_url('grupo-de-trabajo/lserrano');?>" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
 				</div>
 				<div class="card-content">
-					<span class="card-title nombre">Dr. Luis Enrrique Serrano</span>
+					<span class="card-title nombre">Dr. Luis Enrique Serrano</span>
 					<p>Coordinador de la Unidad de Gestión de la Innovación.</p>
 					<p>Responsable del Laboratorio de Inocuidad Microbiologica.</p>
 				</div>
@@ -251,7 +251,7 @@ $img_path = base_url('assets/images').'/';
 					<a href="<?=base_url('grupo-de-trabajo/cmelendez');?>" class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
 				</div>
 				<div class="card-content">
-					<span class="card-title nombre">M.C. </span>
+					<span class="card-title nombre">M.C. Claudio Meléndez Gonzáles </span>
 
 					<p>Encargado de Vinculación y Proyecto</p>
 				</div>
