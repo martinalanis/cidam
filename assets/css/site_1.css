@@ -496,12 +496,6 @@ nav ul li.active {
   position: fixed !important;
 }
 
-.grid-item {
-  width: 33%;
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
 .swiper-slide {
   text-align: center;
   font-size: 18px;
@@ -689,9 +683,7 @@ nav ul li.active {
 }
 
 @media only screen and (max-width: 1440px){
-  .grid-item {
-    width: 50%;
-  }
+
 }
 
 @media only screen and (max-width: 1080px){
@@ -721,10 +713,6 @@ nav ul li.active {
 }
 
 @media only screen and (max-width: 750px) {
-  .grid-item {
-    width: 100%;
-  }
-
   #btn-modal-close{ 
     margin-left: 70%;
   }

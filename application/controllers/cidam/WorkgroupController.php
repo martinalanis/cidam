@@ -18,7 +18,7 @@ class WorkgroupController extends CI_Controller {
     {
         $data = array();
         $data['title'] = 'Grupo de trabajo';
-        // $data['view_style'] = 'workgroup.css';
+        $data['view_style'] = 'workgroup.css';
         $data['view_controller'] = 'workgroup_vs.js';
 
         $this->load->view('layout/head', $data);
@@ -33,7 +33,7 @@ class WorkgroupController extends CI_Controller {
     {
         $data = array();
         $data['title'] = 'Grupo de trabajo';
-        // $data['view_style'] = 'workgroup.css';
+        $data['view_style'] = 'workgroup.css';
         $data['view_controller'] = 'workgroup_vs.js';
 
         $profile = $this->uri->segment(2);
