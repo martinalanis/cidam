@@ -3,7 +3,6 @@
 $js_path = base_url('assets/js').'/';
 ?>
 
-      </main>
 
       <script src="<?php echo $js_path; ?>jquery-3.2.1.js"></script>
       <script src="<?php echo $js_path; ?>jquery.validate.js"></script>

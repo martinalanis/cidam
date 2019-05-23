@@ -63,8 +63,16 @@ $route['translate_uri_dashes'] = FALSE;
 $route['home'] = 'cidam/MainController/home';
 $route['quienes-somos'] = 'cidam/AboutController/index';
 $route['servicios'] = 'cidam/ServiceController/index';
-$route['grupo-de-trabajo'] = 'cidam/WorkgroupController/index';
 $route['contacto'] = 'cidam/ContactController/index';
+
+/*
+----------------------------------
+| Grupo de trabajo
+-----------------------------------
+*/
+
+$route['grupo-de-trabajo'] = 'cidam/WorkgroupController/index';
+$route['grupo-de-trabajo/(:any)'] = 'cidam/WorkgroupController/profile';
 
 /*
 ----------------------------------
