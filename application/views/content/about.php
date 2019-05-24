@@ -81,23 +81,65 @@ $img_path = base_url('assets/images').'/';
 				<p>CAPACIDAD PARA EL DESARROLLO DE TECNOLOGÍAS FUNCIONALES.</p>
 			</div>
 			<div class="row">
-				<div class="col s6 m4 l2">
-					<p>Formulación de Proyectos</p>
+				<div class="col s6 m4 l2 graph-column">
+					<div class="c100 green center p100">
+						<span>100%</span>
+						<div class="slice">
+							<div class="bar"></div>
+							<div class="fill"></div>
+						</div>
+					</div>
+					<p class="graph-description">Formulación de Proyectos</p>
 				</div>
-				<div class="col s6 m4 l2">
-					<p>Análisis de Calidad</p>
+				<div class="col s6 m4 l2 graph-column">
+					<div class="c100 orange center p100">
+						<span>100%</span>
+						<div class="slice">
+							<div class="bar"></div>
+							<div class="fill"></div>
+						</div>
+					</div>
+					<p class="graph-description">Análisis de Calidad</p>
 				</div>
-				<div class="col s6 m4 l2">
-					<p>Sistemas Georreferenciados</p>
+				<div class="col s6 m4 l2 graph-column">
+					<div class="c100 red center p100">
+						<span>100%</span>
+						<div class="slice">
+							<div class="bar"></div>
+							<div class="fill"></div>
+						</div>
+					</div>
+					<p class="graph-description">Sistemas Georreferenciados</p>
 				</div>
-				<div class="col s6 m4 l2">
-					<p>Transferencia de Tecnología</p>
+				<div class="col s6 m4 l2 graph-column">
+					<div class="c100 blue1 center p100">
+						<span>100%</span>
+						<div class="slice">
+							<div class="bar"></div>
+							<div class="fill"></div>
+						</div>
+					</div>
+					<p class="graph-description">Transferencia de Tecnología</p>
 				</div>
-				<div class="col s6 m4 l2">
-					<p>Software</p>
+				<div class="col s6 m4 l2 graph-column">
+					<div class="c100 blue2 center p100">
+						<span>100%</span>
+						<div class="slice">
+							<div class="bar"></div>
+							<div class="fill"></div>
+						</div>
+					</div>
+					<p class="graph-description">Software</p>
 				</div>
-				<div class="col s6 m4 l2">
-					<p>Sistemas de Gestión de Información</p>
+				<div class="col s6 m4 l2 graph-column">
+					<div class="c100 blue3 center p100">
+						<span>100%</span>
+						<div class="slice">
+							<div class="bar"></div>
+							<div class="fill"></div>
+						</div>
+					</div>
+					<p class="graph-description">Sistemas de Gestión de Información</p>
 				</div>
 			</div>
 		</div>
