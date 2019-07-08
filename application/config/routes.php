@@ -63,6 +63,8 @@ $route['translate_uri_dashes'] = FALSE;
 $route['home'] = 'cidam/MainController/home';
 $route['quienes-somos'] = 'cidam/AboutController/index';
 $route['servicios'] = 'cidam/ServiceController/index';
+$route['enviar-cotizacion'] = 'cidam/ServiceController/quotation';
+$route['confirmar-cotizacion'] = 'cidam/ServiceController/quotationConfirm';
 $route['contacto'] = 'cidam/ContactController/index';
 
 /*

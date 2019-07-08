@@ -131,9 +131,8 @@ class ContactController extends CI_Controller {
         <body>
         <div class="mail-container">
         <div class="gratitude-container">
-        <h2 class="double-padding">Estimado(a) '.$name.',</h2>
-        <p class="double-padding">Gracias por ponerte en contacto, en breve responderemos tu mensaje.</p>
-        <h3 class="double-padding">Tus Datos:</h3>
+        <h2 class="double-padding">Mensaje de '.$name.',</h2>
+        <h3 class="double-padding">Sus Datos:</h3>
         <table class="user-data content">
         <thead>
         <tr>
@@ -177,7 +176,7 @@ class ContactController extends CI_Controller {
         $this->email->reply_to($this->seguridad($email), $this->seguridad($name));
         $this->email->to('unidadgestion@cidam.org');
 
-        $this->email->cc($this->seguridad($email));
+        // $this->email->cc($this->seguridad($email));
 
         $this->email->subject('| CIDAM Web Form |');
         $this->email->message($mail);

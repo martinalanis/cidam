@@ -20,13 +20,13 @@ $img_path = base_url('assets/images').'/';
 	</div>
 </div>
 
-<div class="container" style="margin-top: 30px;">
-	<div class="row">
+<section class="section-padding white">
+	<div class="row container">
 		<div class="col s12 center-align" style="padding-bottom: 50px;">
 			<h2 class="about-h">Conoce el CIDAM</h2>
-			<p class="about-txt justify">Nuestro país es productor de frut	as y hortalizas; así como de alimentos de origen pecuario; los cuales deben cumplir con normas de calidad e inocuidad antes de llegar a los consumidores finales. Basados en estas necesidades, se creó el Centro de Innovación y Desarrollo Agroalimentario de Michoacán A.C., para apoyar a las empresas y productores de alimentos mediante proyectos y servicios tecnológicos e incrementar su productividad, logrando así competir exitosamente en los mercados internacionales. Nuestra infraestructura y capital humano, integran la fuerza de trabajo del CIDAM, garantizando la calidad de los servicios que ofrecemos, homologados con las normativas nacionales e internacionales. Las Unidades Técnicas de innovación son quienes sustentan el trabajo del CIDAM, ofreciendo servicios de catálogo y especializados, o bien diseñando estrategias para atender necesidades específicas a través de proyectos integrales de innovación.</p>
+			<p class="about-txt center-align">Nuestro país es productor de frut	as y hortalizas; así como de alimentos de origen pecuario; los cuales deben cumplir con normas de calidad e inocuidad antes de llegar a los consumidores finales. Basados en estas necesidades, se creó el Centro de Innovación y Desarrollo Agroalimentario de Michoacán A.C., para apoyar a las empresas y productores de alimentos mediante proyectos y servicios tecnológicos e incrementar su productividad, logrando así competir exitosamente en los mercados internacionales. Nuestra infraestructura y capital humano, integran la fuerza de trabajo del CIDAM, garantizando la calidad de los servicios que ofrecemos, homologados con las normativas nacionales e internacionales. Las Unidades Técnicas de innovación son quienes sustentan el trabajo del CIDAM, ofreciendo servicios de catálogo y especializados, o bien diseñando estrategias para atender necesidades específicas a través de proyectos integrales de innovación.</p>
 		</div>
-		<div class="col s12">
+		<div class="col s12 m8 offset-m2">
 			<div class="row">
 				<div class="col s12">
 					<ul class="tabs">
@@ -35,25 +35,28 @@ $img_path = base_url('assets/images').'/';
 						<li class="tab col s4"><a href="#vision">Visión</a></li>
 					</ul>
 				</div>
-				<div id="objetivo" class="col s12">
+				<div id="objetivo" class="col s12 pt-20">
 					<div class="row">
-						<p class="about-txt">"Participar en las cadenas agroalimentarias para elevar su competitividad técnica y económica, sus beneficios sociales y su desempeño ambiental, articulando a nivel estatal, nacional e internacional las capacidades científicas, tecnológicas y de innovación, mediante la mejora continua de nuestros procesos buscando la satisfacción del cliente."</p>
+						<p class="about-txt center-align">"Participar en las cadenas agroalimentarias para elevar su competitividad técnica y económica, sus beneficios sociales y su desempeño ambiental, articulando a nivel estatal, nacional e internacional las capacidades científicas, tecnológicas y de innovación, mediante la mejora continua de nuestros procesos buscando la satisfacción del cliente."</p>
 					</div>
 				</div>
-				<div id="mision" class="col s12">
+				<div id="mision" class="col s12 pt-20">
 					<div class="row">
-						<p class="about-txt">"Participar en las cadenas agroalimentarias para elevar su competitividad técnica y económica, sus beneficios sociales y su desempeño ambiental, articulando a nivel estatal, nacional e internacional las capacidades científicas, tecnológicas y de innovación, mediante la mejora continua de nuestros procesos buscando la satisfacción del cliente."</p>
+						<p class="about-txt center-align">"Participar en las cadenas agroalimentarias para elevar su competitividad técnica y económica, sus beneficios sociales y su desempeño ambiental, articulando a nivel estatal, nacional e internacional las capacidades científicas, tecnológicas y de innovación, mediante la mejora continua de nuestros procesos buscando la satisfacción del cliente."</p>
 					</div>
 				</div>
-				<div id="vision" class="col s12">
+				<div id="vision" class="col s12 pt-20">
 					<div class="row">
-						<p class="about-txt">"Ser a nivel nacional el principal Centro de Innovación que resuelve las problemáticas y da valor agregado a las cadenas agroalimentarias."</p>
+						<p class="about-txt center-align">"Ser a nivel nacional el principal Centro de Innovación que resuelve las problemáticas y da valor agregado a las cadenas agroalimentarias."</p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div class="row">
+</section>
+
+<section class="section-padding">
+	<div class="row container">
 		<div class="col s12">
 			<div class="row center-align">
 				<h2 class="about-h">Nuestras Fortalezas</h2>
@@ -74,7 +77,10 @@ $img_path = base_url('assets/images').'/';
 			</div>
 		</div>
 	</div>
-	<div class="row">
+</section>
+
+<section class="section-padding white">
+	<div class="row container">
 		<div class="col s12">
 			<div class="row center-align">
 				<h2 class="about-h">Nuestras Habilidades</h2>
@@ -144,4 +150,4 @@ $img_path = base_url('assets/images').'/';
 			</div>
 		</div>
 	</div>
-</div>
+</section>
