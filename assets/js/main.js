@@ -27,6 +27,7 @@ function init_main(){
 
 	$('.sidenav').sidenav({edge: 'left'});
 	$('.materialboxed').materialbox();
+	$('.aviso_privacidad').modal();
 
 	$(window).scroll(function() {
 		if($(window).scrollTop() > 85){

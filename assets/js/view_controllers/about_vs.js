@@ -5,5 +5,5 @@ Pace.on('done', function(){
 function init(){
 	$('.parallax').parallax();
 	$('.tabs').tabs();
-
+	$('#estructura_org').modal({endingTop: '1%'});
 }

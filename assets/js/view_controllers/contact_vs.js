@@ -5,7 +5,7 @@ Pace.on('done', function(){
 function init(){
 	$('.parallax').parallax();
 	$('.collapsible').collapsible();
-	$('.modal').modal();
+	$('.notification-modal').modal();
 
 	$('.radio-btn').on('change', function() {
 		$('#form_contacto').valid();

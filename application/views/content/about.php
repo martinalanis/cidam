@@ -53,6 +53,12 @@ $img_path = base_url('assets/images').'/';
 			</div>
 		</div>
 	</div>
+
+	<div class="row">
+		<div class="col s12 center-align">
+			<a class="waves-effect waves-light btn orange darken-2 modal-trigger" href="#estructura_org">Estructura organizacional</a>
+		</div>
+	</div>
 </section>
 
 <section class="section-padding">
@@ -151,3 +157,10 @@ $img_path = base_url('assets/images').'/';
 		</div>
 	</div>
 </section>
+
+<div id="estructura_org" class="modal">
+	<div class="modal-content">
+		<i class="material-icons modal-close icon-close amber hoverable">close</i>
+		<img src="<?= $img_path.'estructura_organizacional.jpg'; ?>" class="responsive-img">
+	</div>
+</div>

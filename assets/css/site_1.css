@@ -160,6 +160,10 @@ legend {
   padding-top: 4px;
 }
 
+#aviso-privacidad {
+  font-weight: 100;
+}
+
 .logo-chico{
   max-height: 98px;
   padding: 26px 0px 22px 0px;
@@ -684,7 +688,15 @@ nav ul li.active {
 /* RESPONSIVE
 /*-----------------------------------------------------------------------------------*/
 @media only screen and (min-width: 0px){
+  .modal .icon-close {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    padding: 4px;
+    font-size: 20px;
+    border-radius: 50%;
 
+  }
 }
 
 @media only screen and (min-width: 601px){

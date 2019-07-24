@@ -7,9 +7,12 @@
   padding-right: 10px;
 }
 
-.card .card-title {
+.card .card-content .card-title {
     font-size: 18px;
     font-weight: 700;
+    line-height: 1.2em;
+    margin-top: 0;
+    margin-bottom: 15px;
 }
 
 /*-----------------------------------------------------------------------------------*/

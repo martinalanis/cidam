@@ -73,25 +73,30 @@ $img_path = base_url('assets/images').'/';
 			</div>
 		</form>
 		<div class="col s12 m5 offset-m1">
-			<h5>Centro de Innovación y Desarrollo Agroalimentario de Michoacan, A.C.</h5>
-			<div class="col s12"><div class="divider"></div></div>
-			<ul class="ul-material-icons mt-50">
-				<li>
-					<i class="material-icons">email</i> unidadgestion@cidam.org				
-				</li>
-				<li>
-					<i class="material-icons">phone</i> (443) 299-0181 y (443) 299-0264					
-				</li>
-				<li>
-					<i class="material-icons">location_on</i> Antigua Carretera a Patzcuaro, Kilometro 8.				
-				</li>
-			</ul>
+			<div class="col s12">
+				<h5>Centro de Innovación y Desarrollo Agroalimentario de Michoacan, A.C.</h5>
+				<div class="col s12"><div class="divider"></div></div>
+				<ul class="ul-material-icons mt-50">
+					<li>
+						<i class="material-icons">email</i> unidadgestion@cidam.org				
+					</li>
+					<li>
+						<i class="material-icons">phone</i> (443) 299-0181 y (443) 299-0264					
+					</li>
+					<li>
+						<i class="material-icons">location_on</i> Antigua Carretera a Patzcuaro, Kilometro 8.				
+					</li>
+				</ul>
+			</div>
+			<div class="col s12">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15029.881949275687!2d-101.230658!3d19.6499231!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8c6aa5ba8a593315!2sCIDAM!5e0!3m2!1ses!2smx!4v1563937304520!5m2!1ses!2smx" width="100%" height="320" class="z-depth-1" frameborder="0" style="border:0" allowfullscreen></iframe>
+			</div>
 		</div>
 		
 	</div>
 </div>
 
-<div id="notificacion-submit" class="modal">
+<div id="notificacion-submit" class="modal notification-modal">
 	<div class="modal-content no-padding center-align">
 		<div class="row center-align pt-50 pb-50" style="height: 50%; background-color: #336699;">
 			<i class="material-icons white-text pd20" style="font-size: 64px; border-radius: 50%; border: 5px white solid;">check</i>
@@ -104,7 +109,7 @@ $img_path = base_url('assets/images').'/';
 	</div>
 </div>
 
-<div id="error-submit" class="modal">
+<div id="error-submit" class="modal notification-modal">
 	<div class="modal-content no-padding center-align">
 		<div class="row center-align pt-50 pb-50" style="height: 50%; background-color: #ef5350;">
 			<i class="material-icons white-text pd20" style="font-size: 64px; border-radius: 50%; border: 5px white solid;">close</i>

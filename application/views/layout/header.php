@@ -7,7 +7,7 @@ $plugins = base_url('assets/plugins').'/';
 ?>
 
 <div id="scroll-top-btn" class="fixed-action-btn hide">
-	<a id="scroll-top" href="#app_container" class="btn-floating btn-large hoverable scroll-top amber">
+	<a id="scroll-top" href="#app_container" class="btn-floating btn-large hoverable scroll-top orange darken-2">
 		<i class="large material-icons" style="font-size: 48px;">keyboard_arrow_up</i>
 	</a>
 </div>
@@ -15,9 +15,9 @@ $plugins = base_url('assets/plugins').'/';
 <nav id="navbar">
 	<div class="nav-wrapper">
 		<div class="container">
-			<a id="logo-nav" href="<?=base_url('/home');?>#app_container" class="brand-logo"><img id="logo-nav" src="<?php echo $img_path; ?>Logo1.png" alt="Logo" /></a>
+			<a id="logo-nav" href="<?=base_url('/home');?>" class="brand-logo"><img id="logo-nav" src="<?php echo $img_path; ?>Logo1.png" alt="Logo" /></a>
 			<ul class="right hide-on-med-and-down">
-				<li><a class="hvr-underline-reveal uppercase" href="<?=base_url('home');?>#app_container">Inicio</a></li>
+				<li><a class="hvr-underline-reveal uppercase" href="<?=base_url('home');?>">Inicio</a></li>
 				<li><a class="hvr-underline-reveal uppercase" href="<?=base_url('quienes-somos');?>">Quiénes somos</a></li>
 				<li><a class="hvr-underline-reveal uppercase" href="<?=base_url('servicios');?>">Servicios</a></li>
 				<li><a class="hvr-underline-reveal uppercase" href="<?=base_url('grupo-de-trabajo');?>">Grupo de trabajo</a></li>
