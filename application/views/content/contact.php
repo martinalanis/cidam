@@ -50,14 +50,14 @@ $img_path = base_url('assets/images').'/';
 					</div>
 					
 					<div class="input-field col s12 m10 offset-m1">
-						<input id="email" name="email" type="email" class="validate" data-error="#email-error" >
-						<label for="email">Email</label>
-						<span id="email-error"></span>
-					</div>
-					<div class="input-field col s12 m10 offset-m1">
 						<input id="telephone" name="telephone" type="text" class="validate" data-error="#telephone-error" >
 						<label for="telephone">Teléfono</label>
 						<span id="telephone-error"></span>
+					</div>
+					<div class="input-field col s12 m10 offset-m1">
+						<input id="email" name="email" type="email" class="validate" data-error="#email-error" >
+						<label for="email">Email</label>
+						<span id="email-error"></span>
 					</div>
 				</div>
 				<div class="row">
@@ -85,6 +85,9 @@ $img_path = base_url('assets/images').'/';
 					</li>
 					<li>
 						<i class="material-icons">location_on</i> Antigua Carretera a Patzcuaro, Kilometro 8.				
+					</li>
+					<li>
+						<i class="material-icons">view_list</i> <a class="modal-trigger" href="#directorio" style="color:#007c89;"> Ver directorio completo</a>
 					</li>
 				</ul>
 			</div>
@@ -119,5 +122,24 @@ $img_path = base_url('assets/images').'/';
 			<p id="submit-text" style="font-size: 18px;">Intenta enviar tu mensaje de nuevo, si el error persiste, consulte al administrador del sitio.</p>
 			<button class="modal-action modal-close waves-effect waves-red btn-flat mt25" style="width: 50%;">Cerrar</button>
 		</div>
+	</div>
+</div>
+
+<div id="directorio" class="modal modal-fixed-footer directory-modal">
+	<div class="modal-content">
+		<h5>Directorio CIDAM</h5>
+		<table class="resonsive-table">
+			<thead>
+				<tr>
+					<th>Nombre</th>
+					<th>Puesto</th>
+					<th>Telefono</th>
+				</tr>
+			</thead>
+			<tbody id="directory-content" ></tbody>
+		</table>
+	</div>
+	<div class="modal-footer">
+		<a href="#!" class="btn btn-small modal-close waves-effect waves-green orange darken-2">Cerrar</a>
 	</div>
 </div>

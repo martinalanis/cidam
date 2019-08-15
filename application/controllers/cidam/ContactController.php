@@ -32,6 +32,11 @@ class ContactController extends CI_Controller {
         return htmlentities(trim($entrada));
     }
 
+    public function getDirectory() {
+        $query = $this->db->get('directorio');
+        echo json_encode($query->result_array());
+    }
+
     public function contactForm(){
         $base_url= "http://" . $_SERVER['SERVER_NAME'];
         $name = $this->input->post('name');

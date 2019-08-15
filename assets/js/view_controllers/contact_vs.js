@@ -6,6 +6,34 @@ function init(){
 	$('.parallax').parallax();
 	$('.collapsible').collapsible();
 	$('.notification-modal').modal();
+	$('.directory-modal').modal({
+		endingTop: "5%",
+		onOpenStart: function() {
+			$("#directory-content").html("<tr><td colspan='3' class='center-align'><img src='"+base_url+"assets/images/loading.gif'><td></tr>");
+			$.ajax({
+				url: base_url + 'cidam/ContactController/getDirectory',
+				type: 'get',
+				dataType: 'json',
+				success: function(response){
+					if($.isEmptyObject(response)){
+						$("#directory-content").html("<div>Sin registros</div>");
+						return;
+					}
+					var table_content = '';
+					$.each(response, function(i,row){
+						table_content += '<tr>'
+							+'<td>'+row.nombre+'</td>'
+							+'<td>'+row.puesto+'</td>'
+							+'<td>'+row.telefono+'</td></tr>';
+					});
+					$("#directory-content").html(table_content);
+				},	
+				error: function(err){
+					alert(err);
+				}
+			});
+		}
+	});
 
 	$('.radio-btn').on('change', function() {
 		$('#form_contacto').valid();
